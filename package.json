@@ -1,0 +1,9 @@
+{
+  "name": "guardianvale",
+  "version": "1.0.0",
+  "description": "Guardian Vale Security - Professional Security Solutions",
+  "private": true,
+  "dependencies": {
+    "mysql2": "^3.22.5"
+  }
+}
